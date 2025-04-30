@@ -26,7 +26,7 @@ In my free time I use:
 | minishell | Self-made bash shell in C | Core Rank 03 | 05-Apr-2025 | https://github.com/Horrjiy/minishell |
 | Philosophers | Solving dining philosophers problem with Multithreading in C | Core Rank 03 | 22-Apr-2025 | https://github.com/Horrjiy/Philosophers |
 | miniRT | Image rendering with raytracing in C | Core Rank 04 | Working on it... | https://github.com/Horrjiy/miniRT |
-| CPP Modules | 10 small C++ introduction projects | Core Rank 04 + 05 | Working on it... | https://github.com/Horrjiy/CPP-Modules |
+| CPP Modules | 10 small C++ introduction projects | Core Rank 04+05 | Working on it... | https://github.com/Horrjiy/CPP-Modules |
 | ft_ir
 
 </details>

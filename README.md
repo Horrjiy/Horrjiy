@@ -14,7 +14,7 @@ In my free time I use:
 [![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godot-engine&logoColor=white)](#)
 
 <details>
-<summary>Click to expand</summary>
-yoghurt
+<summary>## Click to see 42 Projects</summary>
+
 
 </details>

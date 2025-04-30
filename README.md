@@ -22,6 +22,8 @@ In my free time I use:
 | ft_printf | Own printf in C | Core Rank 01 | 14-Nov-2024 | https://github.com/Horrjiy/ft_printf |
 | so_long | Simple 2D Game in C | Core Rank 02 | 03-Jan-2025 | https://github.com/Horrjiy/so_long |
 | push_swap | Stack sorting algorythm in C | Core Rank 02 | 17-Feb-2025 | https://github.com/Horrjiy/push_swap |
-| minitalk | Simple server-client communication program  | Core Rank 02 | 4-Mar-2025 | https://github.com/Horrjiy/minitalk |
+| minitalk | Simple server-client communication program | Core Rank 02 | 04-Mar-2025 | https://github.com/Horrjiy/minitalk |
+| minishell | Self-made bash shell | Core Rank 03 | 05-Apr-2025 | https://github.com/Horrjiy/minishell |
+| Philosophers | Dining Philosophers in Multithreading | Core Rank 03 | 22-Apr-2025 | https://github.com/Horrjiy/Philosophers |
 
 </details>

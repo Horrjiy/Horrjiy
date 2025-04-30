@@ -24,6 +24,6 @@ In my free time I use:
 | push_swap | Stack sorting algorythm in C | Core Rank 02 | 17-Feb-2025 | https://github.com/Horrjiy/push_swap |
 | minitalk | Simple server-client communication program | Core Rank 02 | 04-Mar-2025 | https://github.com/Horrjiy/minitalk |
 | minishell | Self-made bash shell | Core Rank 03 | 05-Apr-2025 | https://github.com/Horrjiy/minishell |
-| Philosophers | Dining Philosophers in Multithreading | Core Rank 03 | 22-Apr-2025 | https://github.com/Horrjiy/Philosophers |
+| Philosophers | Solving dining philosophers problem with Multithreading | Core Rank 03 | 22-Apr-2025 | https://github.com/Horrjiy/Philosophers |
 
 </details>

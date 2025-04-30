@@ -14,7 +14,7 @@ In my free time I use:
 [![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godot-engine&logoColor=white)](#)
 
 <details>
-<summary>Click for 42 projects</summary>
-
-
+<summary>Click to see 42 projects</summary>
+| Project | Description | Milestone | Repo
+| libft | libft. | Rank 00 | no
 </details>

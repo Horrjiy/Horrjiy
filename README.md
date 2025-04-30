@@ -20,8 +20,8 @@ In my free time I use:
 | :-------- | :----------------- | :--------: | :-----------: | :----------------------------------- |
 | libft | Libft is a basic C library | Core Rank 00 | 27-Oct-2024 | https://github.com/Horrjiy/libft |
 | ft_printf | Own printf in C | Core Rank 01 | 14-Nov-2024 | https://github.com/Horrjiy/ft_printf |
-| so_long | Simple 2D Game in C | Core Rank 02 | https://github.com/Horrjiy/so_long |
-| push_swap | Stack sorting algorythm in C | Core Rank 02 | https://github.com/Horrjiy/push_swap |
-| minitalk | Simple server-client communication program  | Core Rank 02 | https://github.com/Horrjiy/minitalk |
+| so_long | Simple 2D Game in C | Core Rank 02 | 03-Jan-2025 | https://github.com/Horrjiy/so_long |
+| push_swap | Stack sorting algorythm in C | Core Rank 02 | 17-Feb-2025 | https://github.com/Horrjiy/push_swap |
+| minitalk | Simple server-client communication program  | Core Rank 02 | 4-Mar-2025 | https://github.com/Horrjiy/minitalk |
 
 </details>

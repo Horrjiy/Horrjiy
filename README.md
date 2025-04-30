@@ -13,7 +13,7 @@ In my free time I use:
 [![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)](#)
 [![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godot-engine&logoColor=white)](#)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Horrjiy&area=true&radius=8&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Horrjiy&area=true&radius=8&hide_border=false)
 
 ## Projects
 

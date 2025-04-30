@@ -1,5 +1,8 @@
 ## Hellooooooo wazzup
-I'm Mischa and I do stuff!
+
+🫡 I'm Mischa
+🗣️ I speak 🇩🇪 🇺🇸 🇸🇪
+💌 I like coding, politics and history
 
 In 42 Heilbronn I work with:
 

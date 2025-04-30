@@ -18,7 +18,7 @@ In my free time I use:
 ## Projects
 
 <details>
-<summary>🔶Click to see *42* projects🔶</summary>
+<summary>🔶Click to see 42 projects🔶</summary>
 
 | Project   | Description        | Course     | Finished      | Link                                 |
 | :-------- | :----------------- | :--------: | :-----------: | :----------------------------------- |

@@ -13,6 +13,8 @@ In my free time I use:
 [![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)](#)
 [![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godot-engine&logoColor=white)](#)
 
+## Projects
+
 <details>
 <summary>Click to see 42 projects</summary>
 

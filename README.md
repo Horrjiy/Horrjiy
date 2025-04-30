@@ -25,6 +25,6 @@ In my free time I use:
 | minitalk | Simple server-client communication program | Core Rank 02 | 04-Mar-2025 | https://github.com/Horrjiy/minitalk |
 | minishell | Self-made bash shell in C | Core Rank 03 | 05-Apr-2025 | https://github.com/Horrjiy/minishell |
 | Philosophers | Solving dining philosophers problem with Multithreading in C | Core Rank 03 | 22-Apr-2025 | https://github.com/Horrjiy/Philosophers |
-| miniRT | Image rendering with raytracing in C | Core Rank 04 | ❌ | https://github.com/Horrjiy/miniRT |
+| miniRT | Image rendering with raytracing in C | Core Rank 04 | Working on it... | https://github.com/Horrjiy/miniRT |
 
 </details>

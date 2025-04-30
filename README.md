@@ -16,9 +16,9 @@ In my free time I use:
 <details>
 <summary>Click to see 42 projects</summary>
 
-| Project    | Description        | Course        | Link                                 |
-| :--------: | :----------------- | :-----------: | :----------------------------------- |
-| libft      | libft.       | Core Rank 00     | https://github.com/Horrjiy/libft.git |
-| Cell B1    | Cell B2       | Cell B3     | ne     |
+| Project   | Description        | Course        | Link                                 |
+| :-------- | :----------------- | :-----------: | :----------------------------------- |
+| libft | libft is a basic C library. | Core Rank 00 | https://github.com/Horrjiy/libft.git |
+| ft_printf | Own printf in C | Core Rank 01 | https://github.com/Horrjiy/ft_printf.git |
 
 </details>

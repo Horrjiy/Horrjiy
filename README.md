@@ -15,8 +15,9 @@ In my free time I use:
 
 <details>
 <summary>Click to see 42 projects</summary>
-| Project | Description | Milestone | Link |
-|:--------|:------------------|:----------:|:------------------:|
-| Cell A1  | Cell A2  | Cell A3  | ja |
-| Cell B1  | Cell B2  | Cell B3  | ne |
+| Project  | Description | Milestone | Link |
+|:--------:|:-----------:|:---------:|:----:|
+| Cell A1  | Cell A2     | Cell A3   | ja   |
+| Cell B1  | Cell B2     | Cell B3   | ne   |
+
 </details>

@@ -17,7 +17,7 @@ In my free time I use:
 <summary>Click to see 42 projects</summary>
 | Project    | Description   | Milestone   | Link   |
 | :--------: | :-----------: | :---------: | :----: |
-| Cell A1  | Cell A2     | Cell A3   | ja   |
-| Cell B1  | Cell B2     | Cell B3   | ne   |
+| Cell A1    | Cell A2       | Cell A3     | ja     |
+| Cell B1    | Cell B2       | Cell B3     | ne     |
 
 </details>

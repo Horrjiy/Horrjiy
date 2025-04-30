@@ -16,9 +16,9 @@ In my free time I use:
 <details>
 <summary>Click to see 42 projects</summary>
 
-| Project    | Description   | Milestone   | Link   |
-| :--------: | :----------- | :---------: | :----: |
-| Cell A1    | Cell A2       | Cell A3     | ja     |
+| Project    | Description        | Course        | Link                                 |
+| :--------: | :----------------- | :-----------: | :----------------------------------- |
+| libft      | libft.       | Core Rank 00     | https://github.com/Horrjiy/libft.git |
 | Cell B1    | Cell B2       | Cell B3     | ne     |
 
 </details>

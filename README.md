@@ -31,7 +31,7 @@ In my free time I use:
 | push_swap | Stack sorting algorithm in C | Core Rank 02 | 17-Feb-2025 | 🔗 https://github.com/Horrjiy/push_swap |
 | minitalk | Simple server-client communication program | Core Rank 02 | 04-Mar-2025 | 🔗 https://github.com/Horrjiy/minitalk |
 | minishell | Self-made bash shell in C | Core Rank 03 | 05-Apr-2025 | 🔗 https://github.com/Horrjiy/minishell |
-| Philosophers | Solving dining philosophers problem with Multithreading in C | Core Rank 03 | 22-Apr-2025 | 🔗 https://github.com/Horrjiy/Philosophers |
+| Philosophers | Solving dining philosophers problem with multithreading in C | Core Rank 03 | 22-Apr-2025 | 🔗 https://github.com/Horrjiy/Philosophers |
 | miniRT | Image rendering with raytracing in C | Core Rank 04 | 06-May-2025 | 🔗 https://github.com/Horrjiy/miniRT |
 | CPP Modules | 10 small C++ introduction projects | Core Rank 04+05 | 🛠️ Working on it... | 🔗 https://github.com/Horrjiy/CPP-Modules |
 | ft_irc | ... | Core Rank 05 | ☄️ Coming soon... | 🚫 |

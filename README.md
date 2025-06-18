@@ -1,6 +1,6 @@
 ## Hellooooooo wazzup
 
-- 🫡 I'm Mischa
+- 🌲 I'm Mischa
 - 🗣️ I speak 🇩🇪 🇺🇸 🇸🇪
 - 💌 I like coding, politics and history
 
